@@ -1,2 +1,7 @@
-# software-engineering
-Curated list of resources to become a better software engineer
+# Software Engineering
+
+## Books
+
+## Talks
+
+## Articles
