@@ -9,5 +9,7 @@
 ## Talks
 - [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) by [Rich Hickey](https://github.com/richhickey).
 - [Turning The Database Insisde Out](https://www.youtube.com/watch?v=fU9hR3kiOK0) by [Martin Klepmann](https://martin.kleppmann.com/).
+- [Carpenters & Cartographers](https://youtu.be/TKOnD4UaZ_g) by Valentin Kasas.
+  TBD
 
 ## Articles
