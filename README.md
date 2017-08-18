@@ -11,5 +11,6 @@
 - [Turning The Database Insisde Out](https://www.youtube.com/watch?v=fU9hR3kiOK0) by [Martin Klepmann](https://martin.kleppmann.com/).
 - [Carpenters & Cartographers](https://youtu.be/TKOnD4UaZ_g) by Valentin Kasas.
   TBD
+- [Skybonds: polygon for financial data visualization](https://youtu.be/3yvG3pHC_8E) by Roman Bunin. TBD
 
 ## Articles
