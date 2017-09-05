@@ -12,6 +12,6 @@
 - [Carpenters & Cartographers](https://youtu.be/TKOnD4UaZ_g) by Valentin Kasas.
 - [Skybonds: polygon for financial data visualization](https://youtu.be/3yvG3pHC_8E) by Roman Bunin (rus).
 - [CSS Grid Changes EVERYTHING](https://youtu.be/7kVeCqQCxlk) by Morten Rand-Hendriksen.
-- [What does the employer wants?](https://www.youtube.com/watch?v=qEeimAoSyvk) by Lev Walkin (rus).
+- [What does the employer want?](https://www.youtube.com/watch?v=qEeimAoSyvk) by Lev Walkin (rus).
 
 ## Articles
