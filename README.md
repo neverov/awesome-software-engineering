@@ -10,7 +10,8 @@
 - [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) by [Rich Hickey](https://github.com/richhickey).
 - [Turning The Database Insisde Out](https://www.youtube.com/watch?v=fU9hR3kiOK0) by [Martin Klepmann](https://martin.kleppmann.com/).
 - [Carpenters & Cartographers](https://youtu.be/TKOnD4UaZ_g) by Valentin Kasas.
-- [Skybonds: polygon for financial data visualization](https://youtu.be/3yvG3pHC_8E) by Roman Bunin (Russian).
+- [Skybonds: polygon for financial data visualization](https://youtu.be/3yvG3pHC_8E) by Roman Bunin (rus).
 - [CSS Grid Changes EVERYTHING](https://youtu.be/7kVeCqQCxlk) by Morten Rand-Hendriksen.
+- [What does the employer wants?](https://www.youtube.com/watch?v=qEeimAoSyvk) by Lev Walkin (rus).
 
 ## Articles
