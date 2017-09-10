@@ -13,5 +13,6 @@
 - [Skybonds: polygon for financial data visualization](https://youtu.be/3yvG3pHC_8E) by Roman Bunin (rus).
 - [CSS Grid Changes EVERYTHING](https://youtu.be/7kVeCqQCxlk) by Morten Rand-Hendriksen.
 - [What does the employer want?](https://www.youtube.com/watch?v=qEeimAoSyvk) by Lev Walkin (rus).
+- [Categroy Theory for the Working Hacker](https://www.youtube.com/watch?v=V10hzjgoklA) by Philip Wadler.
 
 ## Articles
