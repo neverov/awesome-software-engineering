@@ -15,5 +15,6 @@
 - [What does the employer want?](https://www.youtube.com/watch?v=qEeimAoSyvk) by Lev Walkin (rus).
 - [Categroy Theory for the Working Hacker](https://www.youtube.com/watch?v=V10hzjgoklA) by Philip Wadler.
 - [Opening Keynote](https://youtu.be/2V1FtfBDsLU) by Rich Hickey.
+- [The mind behind Linux | Linus Torvalds](https://youtu.be/o8NPllzkFhE) by Linus Torvalds.
 
 ## Articles
